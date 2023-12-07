@@ -9,10 +9,9 @@
 ## My skill
 - SQLdatabase
 - Excel
-- Jupyter(Python)
 - JavaScript
 - HTML
-- Kotlin
+- JSX
 
 ## Get in touch💖
 ⇨[Facebook](https://www.facebook.com/penut.jitakorn)<br>
