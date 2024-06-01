@@ -7,14 +7,17 @@
 
 
 ## My skill
-- MS Word
-- MS Excel
-- MS Powerpoint
 - JSX
-- HTML
-- CSS
-- JavaScript
+- JavaScript / Html / Css
+- Python
 - Kotlin
+- Rest API
+- MongoDB
+- Git / Github / SourceTree
+- Agile model
+- Waterfall model
+- MS Word, MS Excel, MS Powerpoint, MS Azure
+- Angular
 
 
 ## Get in touch💖
